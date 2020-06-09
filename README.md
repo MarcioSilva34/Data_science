@@ -22,7 +22,7 @@ Procuro combinar habilidades analíticas com a capacidade de trabalhar em equipe
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
 * **Como usar o Histograma para Data Science:** 
 * **Como Implementar Regressão Linear com Python:** 
