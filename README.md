@@ -5,11 +5,13 @@
 </p>
 
 # Marcio Silva
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Coordenador de Capex no Mercado Financeiro
+</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Como cientista de dados atuando há mais de 12 anos no mercado financeiro em diversas áreas estratégicas, como controladoria expansão de capital (Capex) e Operações ( opex), responsável por coordenar a Construção e elaboração de budget em diversas diretorias.
+Ampla experiência em projeções econômicas, relatórios gerenciais para tomada de decisão com foco em mitigar perdas financeiras, garantindo a sustentabilidade dos negócios e o melhor emprego dos recursos.
+Procuro combinar habilidades analíticas com a capacidade de trabalhar em equipe sempre com foco em eficiência, produtividade e atenção aos detalhes. Depois de passar os últimos anos aplicando Ciência de dados a problemas corporativos de controle financeiro e aquisições, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
+).
 
 **Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
 
